@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://monow3at.onrender.com/sitemap.xml
